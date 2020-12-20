@@ -275,9 +275,9 @@ p{
 	color: white;
 	clear: both;
 	outline: none;
-	border-radius: 1px solid gray;
+	border: 1px solid gray;
 	margin-top: 25px;
-	resizeble: none;
+	resize: none;
 }
 .checkbox{
 	float: left;
