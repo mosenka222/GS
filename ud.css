@@ -277,6 +277,7 @@ p{
 	outline: none;
 	border-radius: 1px solid gray;
 	margin-top: 25px;
+	resizeble: none;
 }
 .checkbox{
 	float: left;
