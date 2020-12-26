@@ -3,330 +3,35 @@
 }
 body{
 	margin: 0;
-}
-.top{
-	height: 10vh;
-}
-.img1{
-	margin-left: 100px;
-	width: 50px;
-	height: 50px;
-	margin-top: 12px;
-	margin-right: 25px;
-	float: left;
-}
-.text1{
-	margin-top: 20px;
-	float: left;
-}
-.fon{
-	height: 90vh;
-	background-image: url(https://cdn.discordapp.com/attachments/754336581338398752/785028369225220136/Ruki-devushki-na-klaviature.png);
-	background-size: cover;
-	background-position: center;
-}
-.black{
-	height: 90vh;
-	background-color: #23232399;
-}
-.center{
-	width: 500px;
-	height: 500px;
-	margin: auto;
-	padding-top: 100px;
 	color: white;
-}
-.h1{
-	font-size: 50px;
 	text-align: center;
 }
-.underline{
-	background-color: #00bfff;
-	width: 500px;
-	height: 2px;
-	clear: both;
-	margin: auto;
+.div1{
+	width: 750px;
+	height: 20vh;
+	background-color: #8d14e3;
+}
+.div2{
+	width: 750px;
+	height: 20vh;
+	background-color: gray;
+}
+.n{
+	padding-right: 100px;
+}
+.m{
+	font-size: 10px;
+	padding-right: 50px;
 }
 .text2{
-	margin-top: 50px;
-	text-align: center
-}
-.buttonf{
-	margin: auto;
-	width: 120px;
-	height: 35px;
-	margin-top: 50px;
-}
-.button{
-	width: 120px;
-	height: 35px;
-	background-color: #00000000;
-	outline: none;
-	clear: both;
-	cursor: pointer;
-	float: left;
-	border-radius: 5%;
-	border: 1px solid #00bfff;
-	color: white;
-	font-size: 15px;
-}
-.arrow{
-	width: 40px;
-	height: 40px;
-	background-image: url(https://cdn.discordapp.com/attachments/754336581338398752/785028539392720916/angle-arrow-down.png);
-	background-size: cover;
-	background-position: center;
-	margin: auto;
-	margin-top: 75px;
-	cursor: pointer;
-	transition: width 0.5s ease, height 0.5s ease;
-}
-.arrow:hover{
-	width: 45px;
-	height: 45px;
-}
-.button:hover{
-	border: 1px solid #009de0;
-}
-.text3{
-	clear: both;
-	margin: auto;
-}
-.h2{
-	text-align: center;
-}
-.text4{
-	text-align: center;
-}
-.icons{
-	width: 1100px;
-	height: 350px;
-	margin: auto;
-}
-.block1{
-	float: left;
-	width: 350px;
-	height: 350px;
-	text-align: center;
-}
-.block2{
-	float: left;
-	width: 350px;
-	height: 350px;
-	margin-left: 25px;
-	text-align: center;
-}
-.block3{
-	float: left;
-	width: 350px;
-	height: 350px;
-	margin-left: 25px;
-	text-align: center;
-}
-.img2{
-	width: 50px;
-	height: 50px;
 	padding-top: 50px;
 }
-.images{
-	text-align: center;
-}
-.kartinki{
-	width: 1100px;
-	height: 525px;
+.whl{
+	width: 25px;
+	height: 2px;
 	margin: auto;
+	background-color: white;
 }
-.k1{
-	width: 350px;
-	height: 250px;
-	float: left;
-	background-image: url(https://proprikol.ru/wp-content/uploads/2019/07/obnimashki-prikolnye-i-krasivye-kartinki-12-650x406.jpg);
-	background-size: cover;
-	background-position: center;
-}
-.k2{
-	width: 350px;
-	height: 250px;
-	margin-left: 25px;
-	float: left;
-	background-image: url(https://st.depositphotos.com/2290789/4224/i/600/depositphotos_42242043-stock-photo-wolf-head.jpg);
-	background-size: cover;
-	background-position: center;
-}
-.k3{
-	width: 350px;
-	height: 250px;
-	margin-left: 25px;
-	float: left;
-	background-image: url(https://i.pinimg.com/474x/f5/1f/32/f51f3282ecc7354b748a54a25b52dc99.jpg);
-	background-size: cover;
-	background-position: center;
-}
-.k4{
-	width: 350px;
-	height: 250px;
-	float: left;
-	margin-top: 25px;
-	clear: both;
-	background-image: url(https://bipbap.ru/wp-content/uploads/2017/04/2-8.jpg);
-	background-size: cover;
-	background-position: center;
-}
-.k5{
-	width: 350px;
-	height: 250px;
-	margin-left: 25px;
-	float: left;
-	margin-top: 25px;
-	background-image: url(https://bipbap.ru/wp-content/uploads/2017/09/72fqw2qq3kxh.jpg);
-	background-size: cover;
-	background-position: center;
-}
-.k6{
-	width: 350px;
-	height: 250px;
-	margin-left: 25px;
-	margin-top: 25px;
-	float: left;
-	background-image: url(https://bipbap.ru/wp-content/uploads/2017/04/0_7c779_5df17311_orig.jpg);
-	background-size: cover;
-	background-position: center;
-}
-.r1{
-	width: 350px;
-	height: 250px;
-	background-color: #23232350;
-}
-.r2{
-	width: 350px;
-	height: 250px;
-	background-color: #23232350;
-}
-.r3{
-	width: 350px;
-	height: 250px;
-	background-color: #23232350;
-}
-.r4{
-	width: 350px;
-	height: 250px;
-	background-color: #23232350;
-}
-.r5{
-	width: 350px;
-	height: 250px;
-	background-color: #23232350;
-}
-.r6{
-	width: 350px;
-	height: 250px;
-	background-color: #23232350;
-}
-.about{
-	height: 100vh;
-	background-image: url(https://www.n-vartovsk.ru/upload/iblock/98f/1314501eda3a3af0f52c50772a97ed3f.jpg);
-	background-size: cover;
-	background-position: center;
-	margin-top: 50px;
-	color: white;
-}
-.lolkeklol{
-	height: 100vh;
-	background-color: #001426df;
-}
-.topmargin{
-	text-align: center;
-	padding-top: 50px;
-}
-p{
-	text-align: center;
-}
-.inputs{
-	width: 598px;
-	height: 400px;
-	margin: auto;
-}
-.input1{
-	background-color: #23232300;
-	float: left;
-	outline: none;
-	clear: both;
-	width: 598px;
-	height: 50px;
-	border: 1px solid gray;
-	color: white;
-}
-.input2{
-	background-color: #23232300;
-	float: left;
-	outline: none;
-	clear: both;
-	border: 1px solid gray;
-	width: 598px;
-	height: 50px;
-	margin-top: 25px;
-	color: white;
-}
-.comment{
-	background-color: #23232300;
-	width: 598px;
-	height: 150px;
-	float: left;
-	color: white;
-	clear: both;
-	outline: none;
-	border: 1px solid gray;
-	margin-top: 25px;
-	resize: none;
-}
-.checkbox{
-	float: left;
-}
-.fooont{
-	float: left;
-}
-.send_button{
-	width: 120px;
-	height: 35px;
-	background-color: #00000000;
-	outline: none;
-	cursor: pointer;
-	float: left;
-	border-radius: 5%;
-	border: 1px solid #00bfff;
-	color: white;
-	font-size: 15px;
-	margin-left: 300px;
-}
-.divbuttons{
-	height: 100px;
-}
-.divbuttoni{
-	width: 209px;
-	height: 50px;
-	float: left;
-	padding-top: 20px;
-	padding-left: 750px;
-}
-.text5{
-	float: left;
-	font-size: 15px;
-	padding-left: 100px;
-	padding-top: 20px;
-	color: gray;
-}
-.buttongg{
-	width: 50px;
-	height: 50px;
-	padding-right: 3px;
-	float: left;
-}
-.button4{
-	width: 50px;
-	height: 50px;
-	float: left;
-}
-.imgg{
-	width: 50px;
-	height: 50px;
+.name{
+
 }
