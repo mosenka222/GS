@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+}
+.fon1{
+	height: 100vh;
+	background-image: url(https://compass-ssl.xbox.com/assets/a7/74/a77438db-e4f8-4d30-92b4-5b26f246219f.jpg?n=Minecraft_Sneaky-Slider-1084_Aquatic_1600x675.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.fon1_temn{
+	height: 100vh;
+	background-color: #23232399;
+	text-align: center;
+	color: white;
+}
+.gl_h{
+	margin: 0;
+	font-size: 100px;
+	padding-top: 250px;
+}
+.fggf{
+	margin-left: 50px;
+}
+a{
+	color: blue;
+}
